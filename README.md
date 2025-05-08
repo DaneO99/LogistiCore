@@ -1,5 +1,4 @@
 # LogistiCore
-# LogistiCore
 
 A scalable smart logistics platform built with a modern full-stack architecture.
 
